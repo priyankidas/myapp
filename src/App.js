@@ -48,7 +48,7 @@ function App() {
       </Props1>
       <Props1 name="Benny" heroName="Spiderman"></Props1> */}
       {/* <ArrayList /> */}
-      <Linking></Linking>
+      {/* <Linking></Linking> */}
       <h1>hello</h1>
     </div>
   );
